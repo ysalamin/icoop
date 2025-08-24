@@ -13,17 +13,17 @@ To skip the initial welcome dialogue, press the space bar.
 
 You can then control your respective character using the following controls:
 
-       Action              Player 1, FIRE   /   Player 2, WATER
+       Action         Player 1, FIRE   /   Player 2, WATER
 
     Movement:          W - A - S - D   /    I - J - K - L 
 
-    Use object:          E          /          O   
+    Use object:             E          /          O   
 
     Change item:            Q          /          U  
 
-    Restart game:        R          /          R 
+    Restart game:           R          /          R 
 
-    Restart map:      T          /          T 
+    Restart map:            T          /          T 
 
 
 # What is the goal? 
